@@ -1,0 +1,1 @@
+teststatusbot: python "main.py"
