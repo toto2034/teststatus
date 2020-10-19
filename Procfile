@@ -1,1 +1,0 @@
-teststatusbot: python "main.py"
